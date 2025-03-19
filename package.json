@@ -1,0 +1,21 @@
+{
+	"name": "extension-template",
+	"title": "Extension Template",
+	"description": "This is a extension template for Comty App",
+	"icon": "https://randomfox.ca/images/99.jpg",
+	"version": "1.0.0",
+	"main": "./dist/main.js",
+	"license": "MIT",
+	"files": [
+		"dist"
+	],
+	"scripts": {
+		"build": "vite build"
+	},
+	"devDependencies": {
+		"vite": "^6.2.2"
+	},
+	"dependencies": {
+		"@ragestudio/vessel": "^0.21.2"
+	}
+}
