@@ -15,7 +15,7 @@
 	},
 	"devDependencies": {
 		"vite": "^6.2.2",
-		"@ragestudio/comty-cli": "^0.1.1"
+		"@ragestudio/comty-cli": "^0.1.2"
 	},
 	"dependencies": {
 		"@ragestudio/vessel": "^0.21.2"
